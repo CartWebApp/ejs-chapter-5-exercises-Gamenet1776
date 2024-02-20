@@ -8,3 +8,5 @@ function dominantDirection(text) {
   // → ltr
   console.log(dominantDirection("Hey, مساء الخير"));
   // → rtl
+
+  // I dont understand 
